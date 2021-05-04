@@ -6,10 +6,7 @@ ColorScheme=FireflyLight
 widgetStyle=Lightly
 
 [kdeglobals][KDE]
-widgetStyle=Lightly
-
-[kdeglobals][Icons]
-Theme=Papirus-Dark
+widgetStyle=Lightlys
 
 [konsolerc][Desktop Entry]
 DefaultProfile=Firefly-Light.profile
