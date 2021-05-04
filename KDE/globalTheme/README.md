@@ -28,9 +28,9 @@
 * I tend to leave the theme as generic as possible to please everyone's likings (and believe me it's not easy 😆), so some visual adjustments may be needed just after installation.
 * Move panels here and there, change wallpapers as you like, the imagination is the only limit!
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/00-Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/KDE/screenshots/00-Desktop.png)
 
-<!-- ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/01-Desktop.png) -->
+<!-- ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/KDE/screenshots/01-Desktop.png) -->
 
 <!-- TODO: **You can find other screenshots [here](https://www.pling.com/p/1281836/).** -->
 

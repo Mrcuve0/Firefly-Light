@@ -8,7 +8,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/00-Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/KDE/screenshots/00-Desktop.png)
 
 <!-- **You can find other screenshots [here](https://www.pling.com/p/1290460/).** -->
 
@@ -48,4 +48,4 @@ iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
 ![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png)
 
 ### **LICENSES**
-This color-scheme is my proper creation and it is licensed under the [GPLv3 license](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/colorScheme/LICENSE)
+This color-scheme is my proper creation and it is licensed under the [GPLv3 license](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/colorScheme/LICENSE)
