@@ -11,7 +11,7 @@ X-KDE-PluginInfo-Version=0.2
 X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1516370,kns://plasma-themes.knsrc/api.kde-look.org/1516376,kns://icons.knsrc/api.kde-look.org/1166289
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1516370,kns://plasma-themes.knsrc/api.kde-look.org/1516376
 
 # ,kns://plasmoids.knsrc/api.kde-look.org/1274218,kns://plasmoids.knsrc/api.kde-look.org/1274975,kns://plasmoids.knsrc/api.kde-look.org/998895,kns://plasmoids.knsrc/api.kde-look.org/998901,kns://plasmoids.knsrc/api.kde-look.org/1313987
 
